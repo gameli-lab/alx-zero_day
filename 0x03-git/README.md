@@ -1,1 +1,2 @@
- My first git readme file
+My first readme
+Collaboration: be up to date
